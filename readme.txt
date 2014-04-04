@@ -29,6 +29,8 @@ Without this plugin hackers can use your accounts for a long time and you will n
 * Sends notifications to the user and to the administrator by email.
 * Shows Date/Time of access action, Browser, IP address, Location (City, Country). Please note this plugin uses 3rd party service http://api.ipinfodb.com (IP geolocation API)
 
+You can get absolutely free professional consultation from our security experts and engineers on http://www.siteguarding.com
+
 == Installation ==
 
 1. Upload `wp-user-access-notification.php` to the `/wp-content/plugins/` directory
@@ -37,7 +39,6 @@ Without this plugin hackers can use your accounts for a long time and you will n
 
 > For any questions and support please visit https://www.siteguarding.com/en/contacts
 
-You can get absolutely free professional consultation from our security experts and engineers on http://www.siteguarding.com
 
 == Frequently Asked Questions ==
 
