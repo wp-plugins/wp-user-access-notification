@@ -3,7 +3,7 @@ Contributors: SiteGuarding
 Donate link: https://www.siteguarding.com/en/website-extensions
 Tags: access, security, login, login alerts, login security, security plugin, website security, admin security, admin, ban hacker, wordpress security, notification, email alerts, protection, virus
 Requires at least: 3.0
-Tested up to: 3.8.1 
+Tested up to: 4.1.1 
 Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
