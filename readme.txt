@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: SiteGuarding
 Donate link: https://www.siteguarding.com/en/website-extensions
-Tags: access, security, login, login alerts, login security, security plugin, website security, admin security, admin, ban hacker, wordpress security, notification, email alerts, protection, virus
+Tags: access, security, login, login alerts, login security, personal security, security plugin, users, website security, admin security, admin, ban hacker, front-end security, wordpress security, login notification, email notification, email alerts, user alert, user notification, log 
 Requires at least: 3.0
-Tested up to: 4.1.1 
-Stable tag: 1.3
+Tested up to: 4.2.4 
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,8 +29,6 @@ Without this plugin hackers can use your accounts for a long time and you will n
 * Sends notifications to the user and to the administrator by email.
 * Shows Date/Time of access action, Browser, IP address, Location (City, Country). Please note this plugin uses 3rd party service http://api.ipinfodb.com (IP geolocation API)
 
-You can get absolutely free professional consultation from our security experts and engineers on http://www.siteguarding.com
-
 == Installation ==
 
 1. Upload `wp-user-access-notification.php` to the `/wp-content/plugins/` directory
@@ -49,14 +47,17 @@ If your password was stolen and you noticed not authorized access with your pass
 = Q: Will WP User Access Notification plugin slow my site down? =
 A: Absolutely No.
 
-= Q: If I need support, can you help me? =
-A: Yes. Please contact us using the form https://www.siteguarding.com/en/contacts
+= Q: Do you provide free support for your plugin? =
+A: Yes. Our contacts are there https://www.siteguarding.com/en/contacts
+
 
 
 == Screenshots ==
 
 1. Email notification about successful login action.
 2. Email notification about failed login action.
+3. Configuration in WordPress admin area
+
 
 == Changelog ==
 == Upgrade Notice ==
