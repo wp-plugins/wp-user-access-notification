@@ -3,7 +3,7 @@
 Plugin Name: WP User Access Notification (by SiteGuarding.com)
 Plugin URI: http://www.siteguarding.com/en/website-extensions
 Description: Plugin sends notifications by email after successful and failed login actions with detailed information about the user and his location 
-Version: 1.4
+Version: 1.5
 Author: SiteGuarding.com (SafetyBis Ltd.)
 Author URI: http://www.siteguarding.com
 License: GPLv2
@@ -62,6 +62,9 @@ function plgwpuan_process_login_action($user_login, $type)
             $send_notification_success = $params['send_notification_success'];
             $send_notification_failed = $params['send_notification_failed'];
         }
+		
+            $send_notification_success = true;
+            $send_notification_failed = true;
 				
 		switch ($type)
 		{
